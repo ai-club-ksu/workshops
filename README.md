@@ -1,4 +1,4 @@
-#  KSU AI Club Workshops
+# AI Club Workshops
 
 Materials from our workshops and events!
 
