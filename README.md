@@ -14,7 +14,7 @@ Materials from our workshops and events!
 Each workshop folder contains:
 
 ```text
-cv2-Library/
+cv2 AIBYTE/
 ├── slides.pdf
 ├── code/
 │   ├── read_image.py
@@ -26,6 +26,7 @@ cv2-Library/
 ├── wighets/
 │   ├── best.pt
 │   ├── yolov8n.pt
+└── Done By Doaa Alaghamdi 
 
 ```
 
