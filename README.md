@@ -6,7 +6,7 @@ Materials from our workshops and events!
 
 | Date | Topic | Materials | Recording |
 |------|-------|-----------|-----------|
-|  |  |  |  |
+| 31mar | cv2 Library  |  cv2 Folder| none |
 
 
 ## 📂 Folder Structure
@@ -14,14 +14,22 @@ Materials from our workshops and events!
 Each workshop folder contains:
 
 ```text
-YYYY-MM-DD-workshop-name/
-├── README.md           # overview of the workshop
-├── slides.pdf          # presentation slides
-├── code/               # Code examples (if there was any)
-│   └── solutions/      # solutions for exercises
-└── exercises/          # Practice problems
+cv2-Library/
+├── slides.pdf
+├── code/
+│   ├── read_image.py
+│   ├── read_video.py  
+│   ├── face_eyes_detection.py
+│   ├── wave_detection.py
+│   ├── rock_paper_scissors.py
+│   └── yolo8.py
+├── wighets/
+│   ├── best.pt
+│   ├── yolov8n.pt
+
 ```
 
 ##  Request a Workshop
 
-You have a topic/field you'd like us to cover? Open an Issue with the `workshop-request` label! 
+You have a topic/field you'd like us to let us Know about? Open  AIByte
+https://docs.google.com/spreadsheets/d/10BztTv0EIE1MaPqyuyyl19hBgZ-WNO7DgyIQTOD_n2c/edit?usp=drivesdk
